@@ -1,0 +1,27 @@
+# Visual Studio Code / Visual Studio
+.vscode/
+.vs/
+*.VC.db
+*.suo
+*.user
+*.vcxproj.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# C++ specific
+*.ilk
+*.pdb
+*.tlog
+*.idb
+*.ipch
+
+# Other
+*.bak
+*.tmp
+*.log
